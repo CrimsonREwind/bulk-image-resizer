@@ -1,1 +1,0 @@
-# bulk-image-resizer
